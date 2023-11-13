@@ -1,1 +1,3 @@
-# Visualització de dades PAC2 Nov 2023
+# Visualització de dades PAC2 
+Àlex Bedmar Martínez
+Nov 2023
