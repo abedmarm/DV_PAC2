@@ -3,12 +3,14 @@
 
 
 ## Figura 1: Stacked barplot
- ![Alt Text](./image_filename.png)
+ ![Alt Text](./fig1_stacked_bar_PAC2.png)
 
 
 
 ## Figura 2: Flow Map
+ ![Alt Text](./fig2_flow_map_PAC2.png)
 
 
 
 ## Figura 3: Hyperbolic Tree
+ ![Alt Text](./fig3_hyperbolic_tree_PAC2.png)
