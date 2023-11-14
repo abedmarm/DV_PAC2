@@ -16,7 +16,7 @@ La figura ha sigut generada en python
 
 
 ## Figura 3: Hyperbolic Tree
-<br/><br/>
 La figura ha sigut generada amb HyperTreeStudio (https://hypertree-studio.soft112.com/)
+<br/><br/>
  ![Alt Text](./fig3_hyperbolic_tree_PAC2_.png)
  
